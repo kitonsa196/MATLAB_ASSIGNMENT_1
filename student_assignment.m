@@ -17,3 +17,5 @@ title("AGE OF STUDENTS");
 xlabel("STUDENT");
 ylabel("AGE");
 
+saveas(gcf, "GROUP_5.png");
+
